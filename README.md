@@ -11,12 +11,14 @@ Welcome to the course repository for "Hands-On Robotics for Beginners: Line Foll
 
 - Get started with 3D printing and electronics components for building your robot.
 - Learn the basics of constructing a reference robot as a foundation for your project.
+![main](https://github.com/Robotisim/Robotics-for-Begginers-Hands-On/blob/main/resources/1_microROS_bot_circuit.gif)
 
 `Section 2:` WiFi Control with Your Phone
 
 - Dive into software installations and setting up the environment for programming.
 - Learn how to drive motors and establish WiFi connectivity for remote control.
 - Create a custom MIT App Inventor application to control your robot from your phone.
+![main](https://github.com/Robotisim/Robotics-for-Begginers-Hands-On/blob/main/resources/2_wii_driving.gif)
 
 `Section 3:` Line Following with PI Controller
 
@@ -25,6 +27,7 @@ Welcome to the course repository for "Hands-On Robotics for Beginners: Line Foll
 - Test your code to ensure it's working as expected.
 - Analyse your robot's driving performance and make improvements.
 - Implement a PI controller for line following and understand the concept of error calculation and set points.
+![main](https://github.com/Robotisim/Robotics-for-Begginers-Hands-On/blob/main/resources/3_line_following)
 ## How to Run
 
 1. **Assemble the Robot**: Follow the instructions in the `Course_Resources` directory to 3D print parts and assemble your robot. Use the provided 3D models and circuit design image to assist you.
