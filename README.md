@@ -2,7 +2,7 @@
 
 Welcome to the course repository for "Hands-On Robotics for Beginners: Line Following WiFi Robot." This course will guide you through building, programming, and controlling a WiFi-enabled, line-following robot from scratch. Below you'll find all the necessary information and resources to help you succeed in this exciting journey into robotics.
 
--> [Course link](https://www.udemy.com/course/draft/2858318/?couponCode=UPDATED)
+- **[[Get course Access]](https://robotisim.com/project-based-course/)**
 
 ![main](https://github.com/Robotisim/Robotics-for-Begginers-Hands-On/blob/main/resources/thumbnail.png)
 ### Course Overview:
